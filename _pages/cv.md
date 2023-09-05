@@ -10,3 +10,5 @@ redirect_from:
 {% include base_path %}
 
 <iframe src="https://setu1421.github.io/my-portfolio/files/resume.pdf#toolbar=0" width="80%" height="600px"></iframe>
+
+[\[PDF\]](https://setu1421.github.io/my-portfolio/files/resume.pdf)
