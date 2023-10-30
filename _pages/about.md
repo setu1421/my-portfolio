@@ -17,6 +17,8 @@ I am actively looking for summer internship positions as a Research Scientist or
 
 ## Recent News:
 
+**October 27, 2023:** I presented our work [Comparison of Secret Detection Tools](https://arxiv.org/pdf/2307.00714.pdf) at ESEM 2023 in New Orleans, USA. 
+
 **June 28, 2023:** Our [paper](https://arxiv.org/pdf/2307.00714.pdf), "A Comparative Study of Software Secrets Reporting by Secret Detection Tools" has been accepted at the International Symposium on Empirical Software Engineering and Measurement (ESEM 2023).
 
 **May 14-20, 2023:** I presented our work [Checked-in secrets challenges](https://dl.acm.org/doi/abs/10.1109/ICSE48619.2023.00141) and [SecretBench](https://ieeexplore.ieee.org/document/10174157) at ICSE 2023 and MSR 2023 in Melbourne, Australia. 
