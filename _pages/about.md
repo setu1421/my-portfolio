@@ -13,7 +13,7 @@ I am a Ph.D. student at North Carolina State University, where I work in the [WS
 
 Previously, I worked at [Enosis Solutions](https://www.enosisbd.com/) for five years, where I developed dental practice management and opportunity model analysis software. Before that, I completed my Bachelor in Computer Science and Engineering from [Khulna University of Engineering and Technology](https://www.kuet.ac.bd/).
 
-I am actively looking for summer internship positions as a Research Scientist or Software Engineer, so feel free to message me if your team is hiring!
+I am actively looking for full time positions as a Research Scientist or Software Engineer, so feel free to message me if your team is hiring!
 
 ## Recent News:
 
