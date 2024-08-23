@@ -17,6 +17,8 @@ I am actively looking for summer internship positions as a Research Scientist or
 
 ## Recent News:
 
+**June 03, 2024:** I started my summer internship with Fidelity Investments. 
+
 **May 01, 2024:** I passed the PhD Oral prelim exam!
 
 **October 27, 2023:** I presented our work [Comparison of Secret Detection Tools](https://arxiv.org/pdf/2307.00714.pdf) at ESEM 2023 in New Orleans, USA. 
